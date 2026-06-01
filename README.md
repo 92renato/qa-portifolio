@@ -1,2 +1,2 @@
 # qa-portifolio
-Repositório para incluir meu portifólio de testes e estudos.
+Repositório para inclusão do meu portifólio de testes e estudos.
