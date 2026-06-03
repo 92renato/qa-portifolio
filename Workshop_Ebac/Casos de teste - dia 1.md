@@ -1,5 +1,3 @@
-Workshop EBAC
-
 **Requisito:** Cadastro de usuário
 
 **Caso 01:** Cadastrar conta com sucesso deve exibir número da conta criada
@@ -22,6 +20,7 @@ Workshop EBAC
 4. Clicar em Cadastrar  
 * **Resultado esperado:** Sistema exibe uma mensagem de confirmação de cadastro com o número da nova conta \- “A conta XYZ foi criada com sucesso”.
 
+
 **Caso 02:** Senha e confirmação de senha precisam ser iguais
 
 * **Cenário:** Usuário tenta realizar cadastro, mas define senhas diferentes  
@@ -42,6 +41,7 @@ Workshop EBAC
 4. Clicar em Cadastrar  
 * **Resultado esperado:** Sistema exibe a mensagem de erro “As senhas não são iguais”.
 
+
 **Caso 03:** Tentativa de cadastro sem preencher nome deve visualizar a mensagem "Nome não pode ser vazio"
 
 * **Cenário:** Usuário tenta realizar cadastro, mas não define um nome  
@@ -58,6 +58,7 @@ Workshop EBAC
    Senha: 1234567890
 
    Confirmação de senha: 1234
+
 
 4. Clicar em Cadastrar  
 * **Resultado esperado:** O sistema retorna a mensagem “Nome não pode ser vazio.”
@@ -85,6 +86,7 @@ Workshop EBAC
 7. O sistema retorna a tela de login  
 8. Realizar login  
 * **Resultado esperado:** Ao realizar o login com o novo usuário a conta criada possui saldo de R$ 1000,00
+
 
 **Caso 05:** Cadastro de um usuário com conta ativa
 
