@@ -1,4 +1,4 @@
-# 📋 Plano de Testes — BugBank
+# Plano de Testes — BugBank
 
 > **Aplicação testada:** BugBank — https://bugbank.netlify.app
 > **Versão/Data:** Web App — Junho 2026
